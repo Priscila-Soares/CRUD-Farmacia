@@ -1,6 +1,7 @@
 package com.generation.farmacia.controller;
 
 import com.generation.farmacia.model.Categoria;
+
 import com.generation.farmacia.repository.CategoriaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

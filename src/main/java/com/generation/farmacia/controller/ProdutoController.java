@@ -1,7 +1,7 @@
 package com.generation.farmacia.controller;
 
 import com.generation.farmacia.model.Produto;
-
+import com.generation.farmacia.service.ProdutoService;
 import com.generation.farmacia.repository.ProdutoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
